@@ -26,11 +26,11 @@ h1{
 .btn-a{
     padding: 0.6rem 1.2rem;
     background-color: black;
-    color: #00d632;
+    color: #BA6BF8;
     border-radius: 20px;
 }
 .btn-a:hover{
-    background-color: #00d632;
+    background-color: #BA6BF8;
     color: black;
 }
 
@@ -118,13 +118,13 @@ h1{
     color: white;
 }
 .service-card h3{
-    color: #00d632;
+    color: #BA6BF8;
 }
 
 .footer{
     background-color: black;
     text-align: center;
-    color: #00d632;
+    color: #BA6BF8;
     padding: 1rem 1rem;
 }
 
